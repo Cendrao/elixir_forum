@@ -1,0 +1,25 @@
+{
+  "name": "forum",
+  "version": "1.0.0",
+  "description": "To start your Phoenix server:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cendrao/elixir_forum.git"
+  },
+  "author": "Matheus Cendrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cendrao/elixir_forum/issues"
+  },
+  "homepage": "https://github.com/Cendrao/elixir_forum#readme",
+  "dependencies": {
+    "semantic-ui": "^2.2.10"
+  }
+}
